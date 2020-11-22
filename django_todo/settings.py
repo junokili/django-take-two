@@ -27,7 +27,7 @@ SECRET_KEY = '_56vxya84a)_d*t&ow2*^%9iz!g@%4a(=-3llx6)6cfo71raiu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://kp2020-django-take-two.herokuapp.com']
 
 
 # Application definition
